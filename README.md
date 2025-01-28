@@ -101,6 +101,9 @@ npm run dev
 
 ---
 
+### (!) Needed steps:
+- copy the content of the file common.constants.txt in the drive folder into the file common.constants.ts in src/app/constants/common.constants.ts to activate the hf api keys
+
 ### Notes for Teachers
 
 - The database SQL file is located in `scripts/chatapp_database.sql`.

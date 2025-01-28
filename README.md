@@ -1,7 +1,3 @@
-Here’s the final setup instruction, tailored to your project structure:
-
----
-
 # Chatbox - Setup Guide
 
 ## Requirements
@@ -109,5 +105,3 @@ npm run dev
 
 - The database SQL file is located in `scripts/chatapp_database.sql`.
 - Use the `import_db.sh` script for Linux/Mac or `import_db.bat` for Windows to import the database easily.
-
-If you encounter any issues, feel free to reach out for assistance! 🎉

@@ -1,0 +1,15 @@
+[2024-11-28 17:53:00] [32minfo[39m: NLPService instance created
+[2024-11-28 17:53:00] [32minfo[39m: Processing user input: "Bitcoin là gì"
+[2024-11-28 17:53:00] [32minfo[39m: NLP processing completed successfully
+[2024-11-28 17:53:28] [32minfo[39m: Processing user input: "là gì bit coin"
+[2024-11-28 17:53:28] [32minfo[39m: NLP processing completed successfully
+[2024-11-28 17:54:01] [32minfo[39m: Processing user input: "hello, name what , bitcoin"
+[2024-11-28 17:54:01] [32minfo[39m: NLP processing completed successfully
+[2024-11-28 17:57:15] [32minfo[39m: Processing user input: "Elonmusk is who?, bitcoin, Intel, là gì?"
+[2024-11-28 17:57:15] [32minfo[39m: NLP processing completed successfully
+[2024-11-28 17:57:34] [32minfo[39m: Processing user input: "Elonmusk,  bitcoin, who is Billgate?"
+[2024-11-28 17:57:34] [32minfo[39m: NLP processing completed successfully
+[2024-11-28 17:58:07] [32minfo[39m: Processing user input: "Elon Musk is a billionaire"
+[2024-11-28 17:58:07] [32minfo[39m: NLP processing completed successfully
+[2024-11-28 17:58:15] [32minfo[39m: Processing user input: "Elon Musk"
+[2024-11-28 17:58:15] [32minfo[39m: NLP processing completed successfully
